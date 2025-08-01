@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# Live Demo
   - [DEMO LINK](https://RTSaitama.github.io/My_Bike/)
 
 # My Bike — City Bikes Landing Page
