@@ -1,5 +1,5 @@
 # Live Demo
-  - [DEMO LINK](https://RTSaitama.github.io/My_Bike/)
+  - [Try it Live](https://RTSaitama.github.io/My_Bike/)
 
 # My Bike — City Bikes Landing Page
 
