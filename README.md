@@ -23,8 +23,8 @@ This is a clean, responsive one-page landing site for bikes shop. It provides br
 - Optimized images and lightweight assets for quick rendering
 - Semantic HTML structure for screen readers and assistive technologies
 - Responsive design adapts to various screen sizes and devices
- ![PageSpeed Insights for pc]([https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toast-closable.png](https://github.com/RTSaitama/My_Bike/blob/master/screenshots/test-pc.png))
-  ![PageSpeed Insights for mobile]([https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toast-closable.png](https://github.com/RTSaitama/My_Bike/blob/master/screenshots/test-mobile.png))
+ ![PageSpeed Insights for pc]([https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toast-closable.png](https://github.com/RTSaitama/My_Bike/blob/master/screenshots/test-pc.png)
+  ![PageSpeed Insights for mobile]([https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toast-closable.png](https://github.com/RTSaitama/My_Bike/blob/master/screenshots/test-mobile.png)
 ## Installation and Usage
 1. Clone the repository:
    ```bash
