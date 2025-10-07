@@ -23,7 +23,7 @@ This is a clean, responsive one-page landing site showcasing three models of cit
 - Optimized images and lightweight assets for quick rendering
 - Semantic HTML structure for screen readers and assistive technologies
 - Responsive design adapts to various screen sizes and devices
-
+ 
 ## Installation and Usage
 1. Clone the repository:
    ```bash
